@@ -81,5 +81,5 @@ Melhorias Futuras:
 - Implementação de edição e remoção de viagens
 
 Autor, 
-Desenvolvido por Gabriela.
+desenvolvido por Gabriela.
 
