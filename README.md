@@ -80,6 +80,6 @@ Melhorias Futuras:
 - Melhorias na interface do usuário
 - Implementação de edição e remoção de viagens
 
-Autor
+Autor, 
 Desenvolvido por Gabriela.
 
